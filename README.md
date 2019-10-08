@@ -1,7 +1,7 @@
-# fpms-docs
-Foot Pressure Measurement System - Documents
+# ff-docs
+압력감지 시스템 - 문서
 
-FPMS 개발과 관련된 모든 문서를 포함합니다.
+FF 개발과 관련된 모든 문서를 포함합니다.
 
 ## 문서 바로가기
 - 요구사항 분석서
