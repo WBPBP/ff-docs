@@ -85,7 +85,7 @@ PRESHOE
 ![종합](assets/architecture-whole.jpg)
 
 ### 1. 센서 모듈
-![센서 모듈](assets/architecture-sensor.jpg)
+![센서 모듈](assets/architecture-shoe.jpg)
 
 ### 2. 애플리케이션
 ![애플리케이션](assets/architecture-app.jpg)
