@@ -148,27 +148,27 @@ Presentation과 Domain 계층은 Interactor(UseCase)를 통해 소통하며, Dom
 >### Presentation
 >표현 계층. UI를 포함한 시스템 종속적인 요소들을 포함한다.    
 다음 컴포넌트가 이 계층에 속한다:
-- Activity
-- Fragment
-- ViewModel
-- Widgets
+>- Activity
+>- Fragment
+>- ViewModel
+>- Widgets
 
 >### Domain
 >애플리케이션에서 가장 중요한 것들을 정의하는 계층이다.    
 순수 언어 외적인 것은 존재하지 않으며, 다른 계층에 대한 종속성은 존재하지 않는다.    
 다음 컴포넌트가 이 계층에 속한다:
-- Entity
-- UseCase
-- Repository Interface
+>- Entity
+>- UseCase
+>- Repository Interface
 
 >### Data
 >데이터 계층. 일관되고 신뢰할 수 있는 데이터의 처리를 담당한다.    
 데이터의 분산을 막을 수 있도록 신뢰할 수 있는 단 하나의 원천(SSOT)을 제공한다.    
 다음 컴포넌트가 이 계층에 속한다:
-- Repository Implementation
-- DB Accessor
-- Network Service
-- Cache
+>- Repository Implementation
+>- DB Accessor
+>- Network Service
+>- Cache
 
 ### 3. 서버
 음...
