@@ -82,9 +82,15 @@ PRESHOE
 ![시스템 아키텍쳐](assets/system-architecture.png)
 
 ### 0. 종합
+![종합](assets/architecture-whole.jpg)
 
 ### 1. 센서 모듈
+![센서 모듈](assets/architecture-sensor.jpg)
 
 ### 2. 애플리케이션
+![애플리케이션](assets/architecture-app.jpg)
 
 ### 3. 서버
+음...
+
+작성중 2019.12.01 10:30 PM
