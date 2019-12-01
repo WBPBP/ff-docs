@@ -106,6 +106,9 @@ Preshoe 시스템은 크게 세 부분으로 나뉘어지는데, 아래와 같�
 
 센서는 최소 12개에서 최대 16개까지 배치되는데, 다수의 아날로그 입력을 처리하기 위해 multiplexing이 필요하다.
 
+ESP-32S를 사용, 4 by 16 multiplexing을 적용한 회로의 모습은 아래와 같다.
+![회로](assets/circuit.png)
+
 ### 2. 애플리케이션
 ![애플리케이션](assets/architecture-app.jpg)
 
