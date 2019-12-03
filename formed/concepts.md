@@ -115,14 +115,8 @@ Preshoe 시스템은 크게 세 부분으로 나뉘어진다.
 ![센서 모듈](assets/architecture-shoe.jpg)
 **<센서 모듈 아키텍쳐>**
 
-![깔창](assets/insole.jpg)
-**<압력센서가 배치된 깔창>**
-
-![신발 내부](assets/shoe.jpg)
-**<신발 내부 모습>**
-
-![깔창 내부](assets/shoe-wired.jpg)
-**<깔창 내부 모습>**
+![깔창과 신발](assets/shoe.png)
+**<깔창과 신발>**
 
 ![회로](assets/circuit.png)
 **<회로도(업데이트 필요)>**
