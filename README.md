@@ -5,19 +5,23 @@ Preshoes - 문서
 Preshoes 개발과 관련된 모든 문서를 포함합니다.
 
 ## 문서 바로가기
+
+- [최종 발표 슬라이드](slides/Preshoes.pptx)
+- [최종 발표 영상](https://youtu.be/JYdxtOJ4cAg)
+
 - [프로젝트 실무 계획서](formed/plan.md)
 - [프로젝트 실무 요구사항 분석서](formed/requirements.md)
 - [프로젝트 실무 개념 설계서](formed/concepts.md)
 - 프로젝트 실무 시스템 설계서
 - 프로젝트 실무 시험 결과서
-- [사용 자재 목록](BOM.md)
-- [참고자료](references.md)
 
 ## Preshoes란?
 
+![Poster](images/Preshoes.png)
+
 [IdeaBoom 바로가기](http://www.ideaboom.net/page/project_detail.php?seq=1673)
 
-Preshoes는 신발에 부착된 압력 센서로 족부의 압력분포를 세밀하게 측정하고 신체 밸런스 및 보행 습관을 분석하여 사용자에게 제공하는 서비스입니다.
+**Preshoes는 신발에 부착된 압력 센서로 족부의 압력분포를 세밀하게 측정하고 신체 밸런스 및 보행 습관을 분석하여 사용자에게 제공하는 서비스입니다.**
 
 ## 프로젝트 진행 기록
 
