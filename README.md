@@ -24,7 +24,7 @@ Preshoes 개발과 관련된 모든 문서를 포함합니다.
 
 ![Poster](images/Preshoes.png)
 
-[IdeaBoom 바로가기](http://www.ideaboom.net/page/project_detail.php?seq=1673)
+**[IdeaBoom 바로가기 (작품 상세 설명)](http://www.ideaboom.net/page/project_detail.php?seq=1673)**
 
 **Preshoes는 신발에 부착된 압력 센서로 족부의 압력분포를 세밀하게 측정하고 신체 밸런스 및 보행 습관을 분석하여 사용자에게 제공하는 서비스입니다.**
 
