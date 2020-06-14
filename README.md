@@ -8,7 +8,6 @@ Preshoes 개발과 관련된 모든 문서를 포함합니다.
 
 - [최종 발표 슬라이드](slides/Preshoes.pptx)
 - [최종 발표 영상](https://youtu.be/JYdxtOJ4cAg)
-
 - [프로젝트 실무 계획서](formed/plan.md)
 - [프로젝트 실무 요구사항 분석서](formed/requirements.md)
 - [프로젝트 실무 개념 설계서](formed/concepts.md)
