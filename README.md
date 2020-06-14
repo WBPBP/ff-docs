@@ -33,7 +33,7 @@
 | [송병준](https://github.com/dobbi030) | `모바일 앱`, `센서 모듈` | `디자인`, `문서`, `영상` |
 | [강은선](https://github.com/dobbi030) | `-` | `알파 테스트` |
 | [정재희](https://github.com/Jungjaehee) | `데이터 모델` | `기술지원`, `질의응답` |
-| [허설](https://github.com/hseol)  | `서버` | `프로젝트 lead`, `시연` |
+| [허설](https://github.com/hseol)  | `API 서버` | `프로젝트 lead`, `시연` |
 
 ## 프로젝트 기간
 
